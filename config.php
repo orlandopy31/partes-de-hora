@@ -5,8 +5,8 @@ mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 date_default_timezone_set('America/Asuncion');
 
 $DB_HOST = "127.0.0.1";
-$DB_USER = "root";
-$DB_PASS = "Orlando4375820321";
+$DB_USER = "xxx";
+$DB_PASS = "xxx";
 $DB_NAME = "servicios";
 
 try {
